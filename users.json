@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "rizz",
-      "password": "adm",
-      "role": "owner",
-      "expired": "2026-11-30"
-    },
-    {
       "username": "yanz",
       "password": "yanzaja",
       "role": "premium",
